@@ -1,0 +1,31 @@
+*{
+    margin: 1px;
+    padding: 2px;
+}
+body{
+    background-image: url(cr.jpg);
+    background-repeat: no-repeat;
+    background-size:inherit;
+    background-position: initial;
+
+    margin-bottom: 43px;
+
+}
+.container{
+    text-align: center;
+    color: aqua;
+    border-color: aqua;
+}
+.box{
+    border: 2px solid red;
+    width: 100%;
+    background-color: white;
+}`````````
+
+.btn{
+    cursor: 
+    outline none;
+}`
+.box i{
+    color: aqua;
+}
